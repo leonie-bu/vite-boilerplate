@@ -12,7 +12,13 @@
     "noEmit": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noImplicitReturns": true
+    "noImplicitReturns": true,
+    "jsx": "react",
+    "allowJS": false,
+    "isolatedModules": true,
+    "skiplibCheck": false,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["./src"]
 }

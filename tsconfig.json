@@ -14,9 +14,9 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "jsx": "react",
-    "allowJS": false,
+    "allowJs": false,
     "isolatedModules": true,
-    "skiplibCheck": false,
+    "skipLibCheck": false,
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true
   },
